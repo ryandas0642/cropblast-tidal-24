@@ -1,2 +1,2 @@
-# cropblast-tidal-24
+# cropburst
 tidal '24 hackathon
